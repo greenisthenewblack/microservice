@@ -1,3 +1,3 @@
-module github.com/greenisthenewblack/microservices
+module github.com/greenisthenewblack/microservice
 
 go 1.13
