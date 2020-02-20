@@ -5,6 +5,6 @@ import (
 )
 
 //Test ok
-func Test() {
+func test() {
 	fmt.Println("go test!")
 }
